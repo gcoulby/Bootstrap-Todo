@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bootstrap-Todo/static/css/main.5740cf87.css",
-    "main.js": "/Bootstrap-Todo/static/js/main.13990062.js",
+    "main.css": "/Bootstrap-Todo/static/css/main.23c4092b.css",
+    "main.js": "/Bootstrap-Todo/static/js/main.cd44c195.js",
     "static/js/787.4174b144.chunk.js": "/Bootstrap-Todo/static/js/787.4174b144.chunk.js",
     "index.html": "/Bootstrap-Todo/index.html",
-    "main.5740cf87.css.map": "/Bootstrap-Todo/static/css/main.5740cf87.css.map",
-    "main.13990062.js.map": "/Bootstrap-Todo/static/js/main.13990062.js.map",
+    "main.23c4092b.css.map": "/Bootstrap-Todo/static/css/main.23c4092b.css.map",
+    "main.cd44c195.js.map": "/Bootstrap-Todo/static/js/main.cd44c195.js.map",
     "787.4174b144.chunk.js.map": "/Bootstrap-Todo/static/js/787.4174b144.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5740cf87.css",
-    "static/js/main.13990062.js"
+    "static/css/main.23c4092b.css",
+    "static/js/main.cd44c195.js"
   ]
 }
