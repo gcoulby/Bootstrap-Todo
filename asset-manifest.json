@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bootstrap-todo/static/css/main.5740cf87.css",
+    "main.js": "/bootstrap-todo/static/js/main.e02a5f1e.js",
+    "static/js/787.4174b144.chunk.js": "/bootstrap-todo/static/js/787.4174b144.chunk.js",
+    "index.html": "/bootstrap-todo/index.html",
+    "main.5740cf87.css.map": "/bootstrap-todo/static/css/main.5740cf87.css.map",
+    "main.e02a5f1e.js.map": "/bootstrap-todo/static/js/main.e02a5f1e.js.map",
+    "787.4174b144.chunk.js.map": "/bootstrap-todo/static/js/787.4174b144.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740cf87.css",
+    "static/js/main.e02a5f1e.js"
+  ]
+}
